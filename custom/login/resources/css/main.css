@@ -8,7 +8,7 @@ body {
 }
 
 body {
-  background-color: #F4F7FA;
+  background-image: url(../images/background-image-1.png);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -99,7 +99,7 @@ textarea:focus {
   background-position: center;
   width: 18em;
   background-size: contain;
-  height: 18em;
+  height: 12em;
   background-repeat: no-repeat;
   max-width: 18em;
 }

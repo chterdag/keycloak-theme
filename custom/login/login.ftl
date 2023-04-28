@@ -9,7 +9,7 @@
 
             <form id="kc-form-login" class="login-form" action="${url.loginAction}" method="post">
 
-                    <div class="login-landing-img"></div>
+                    <#--  <div class="login-landing-img"></div>  -->
 
                     <div class="form-inner-content">
                     
