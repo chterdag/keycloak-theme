@@ -98,11 +98,11 @@ textarea:focus {
 
 .form-title-logo {
   margin-top: 1em;
-  background-image: url(../images/LogoScopic.webp);
+  background-image: url(../images/logo.svg);
   background-position: center;
-  width: 14em;
+  width: 18em;
   background-size: contain;
-  height: 8em;
+  height: 4em;
   background-repeat: no-repeat;
   max-width: 18em;
 }
