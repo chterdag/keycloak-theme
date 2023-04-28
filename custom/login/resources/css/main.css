@@ -54,7 +54,7 @@ textarea:focus {
 }
 
 .login-landing-img {
-  background-image: url(../images/sign-in-user.jpg);
+  background-image: url(../images/background-image-1.png);
   background-position: right center;
   height: 40em;
   overflow: hidden;
@@ -99,7 +99,7 @@ textarea:focus {
   background-position: center;
   width: 18em;
   background-size: contain;
-  height: 4em;
+  height: 18em;
   background-repeat: no-repeat;
   max-width: 18em;
 }
