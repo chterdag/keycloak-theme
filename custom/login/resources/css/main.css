@@ -100,9 +100,9 @@ textarea:focus {
   margin-top: 1em;
   background-image: url(../images/LogoScopic.webp);
   background-position: center;
-  width: 18em;
+  width: 14em;
   background-size: contain;
-  height: 12em;
+  height: 8em;
   background-repeat: no-repeat;
   max-width: 18em;
 }
