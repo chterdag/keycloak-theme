@@ -9,7 +9,7 @@
 
             <form id="kc-form-login" class="login-form" action="${url.loginAction}" method="post">
 
-                <div class="login-landing-img"></div>
+                <#--  <div class="login-landing-img"></div>  -->
 
                     <div class="form-inner-content">
                     
@@ -18,7 +18,6 @@
                     <div>
                         <h1 class="form-title">Nspect</h1>
                         <p class="form-title-subtext">Offensive Security Management</p>
-                        <p class="form-title-subtext">Welcome back. Sign in with your credentials.</p>
                     </div>
 
 

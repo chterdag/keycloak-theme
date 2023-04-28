@@ -8,7 +8,7 @@ body {
 }
 
 body {
-  background-color: #47494b;
+  background-color: #F4F7FA;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -95,7 +95,7 @@ textarea:focus {
 
 .form-title-logo {
   margin-top: 1em;
-  background-image: url(../images/logo.svg);
+  background-image: url(../images/LogoScopic.webp);
   background-position: center;
   width: 18em;
   background-size: contain;
@@ -194,14 +194,13 @@ textarea:focus {
 .button {
   height: 2.5em;
   border: none;
-  background-color: #F2CE45;
+  background-color: #5048E5;
   width: 355px;
   max-width: 355px;
   font-size: 1em;
   border-radius: 0.4em;
   color: #fff;
   font-family: "Open Sans";
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12), 0 2px 4px 0 rgba(0, 0, 0, 0.08);
   cursor: pointer;
   font-weight: 800;
 }
