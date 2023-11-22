@@ -17,7 +17,6 @@
                     <div class="form-title-logo"></div>
 
                     <div>
-                        <h1 class="form-title">Nspect</h1>
                         <p class="form-title-subtext">Offensive Security Management</p>
                     </div>
 
